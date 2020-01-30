@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.greenhousemin.org");
+header("Location: https://www.chase.com/news/103117-chargebacks2");
 die();
 ?>
